@@ -1,0 +1,8 @@
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\dongu_for\obj\Debug\dongu_for.csproj.AssemblyReference.cache
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\dongu_for\obj\Debug\dongu_for.csproj.SuggestedBindingRedirects.cache
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\dongu_for\obj\Debug\dongu_for.csproj.CoreCompileInputs.cache
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\dongu_for\bin\Debug\dongu_for.exe.config
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\dongu_for\bin\Debug\dongu_for.exe
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\dongu_for\bin\Debug\dongu_for.pdb
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\dongu_for\obj\Debug\dongu_for.exe
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\dongu_for\obj\Debug\dongu_for.pdb

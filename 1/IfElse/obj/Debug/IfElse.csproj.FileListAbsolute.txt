@@ -1,0 +1,8 @@
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\IfElse\bin\Debug\IfElse.exe
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\IfElse\bin\Debug\IfElse.pdb
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\IfElse\obj\Debug\IfElse.csproj.AssemblyReference.cache
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\IfElse\obj\Debug\IfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\IfElse\obj\Debug\IfElse.exe
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\IfElse\obj\Debug\IfElse.pdb

@@ -1,0 +1,3 @@
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\karisik_ornekler\obj\Debug\karisik_ornekler.csproj.AssemblyReference.cache
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\karisik_ornekler\obj\Debug\karisik_ornekler.csproj.SuggestedBindingRedirects.cache
+C:\Users\zekiy\OneDrive\Masaüstü\c#\1\karisik_ornekler\obj\Debug\karisik_ornekler.csproj.CoreCompileInputs.cache
